@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Clone down this repo and run the flask app
+Clone this repo and run the flask app
 - Test playbook is included
 
 ### Prerequisites
